@@ -1,0 +1,24 @@
+{
+  "name": "intersection-observer-polyfill",
+  "version": "1.0.0",
+  "description": "The polyfill of the InterserctionObserver API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keifergu/intersection-observer-polyfill.git"
+  },
+  "keywords": [
+    "intersection",
+    "observer",
+    "getboundingclientrect"
+  ],
+  "author": "KeiferGu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keifergu/intersection-observer-polyfill/issues"
+  },
+  "homepage": "https://github.com/keifergu/intersection-observer-polyfill#readme"
+}
